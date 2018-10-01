@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movie Directory</string>
+    <string name="title">title</string>
+    <string name="released">released</string>
+    <string name="category">category</string>
+    <string name="ratings">Rating</string>
+    <string name="runtime">Runtime</string>
+    <string name="directed_by">Directed By</string>
+    <string name="actor">Actor</string>
+    <string name="writer">Writer</string>
+    <string name="plot">Plot</string>
+    <string name="box_office">Box Office</string>
+    <string name="action_search">Search</string>
+    <string name="ex">Batman</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="search">Search</string>
+    <string name="enter_search_term">Enter Search Term</string>
+    <string name="action_info">Info</string>
+</resources>
